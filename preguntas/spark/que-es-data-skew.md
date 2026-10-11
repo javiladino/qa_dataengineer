@@ -2,7 +2,7 @@
 
 **Nivel:** 🟡 Mid
 **Tags:** `spark`, `performance`, `joins`
-**Visto en:** Ejemplo, 2026 — entrevista técnica
+**Visto en:** Pregunta frecuente — entrevista técnica
 
 ## Respuesta
 

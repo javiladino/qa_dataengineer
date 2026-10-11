@@ -2,7 +2,7 @@
 
 **Nivel:** 🟢 Junior
 **Tags:** `sql`, `window-functions`
-**Visto en:** Ejemplo, 2026 — entrevista técnica
+**Visto en:** Pregunta frecuente — entrevista técnica
 
 ## Respuesta
 

@@ -6,17 +6,19 @@ Recopilación colaborativa de preguntas reales de entrevistas para **Data Engine
 
 ## 📚 Índice por tema
 
-| Tema | Descripción |
-|---|---|
-| [SQL](preguntas/sql/) | Consultas, window functions, joins, optimización |
-| [Python](preguntas/python/) | Lenguaje, estructuras de datos, pandas, testing |
-| [Spark](preguntas/spark/) | PySpark, particiones, shuffles, optimización |
-| [Modelado de datos](preguntas/modelado-datos/) | Kimball, star schema, SCD, Data Vault |
-| [Orquestación](preguntas/orquestacion/) | Airflow, Dagster, Prefect, dbt |
-| [Cloud](preguntas/cloud/) | AWS, GCP, Azure, data warehouses |
-| [Streaming](preguntas/streaming/) | Kafka, Flink, Spark Streaming, CDC |
-| [System Design](preguntas/system-design/) | Diseño de pipelines y arquitecturas de datos |
-| [Behavioral](preguntas/behavioral/) | Preguntas de comportamiento (método STAR) |
+| Tema | Descripción | Preguntas |
+|---|---|---|
+| [SQL](preguntas/sql/) | Consultas, window functions, joins, optimización | 5 |
+| [Python](preguntas/python/) | Lenguaje, estructuras de datos, pandas, testing | 5 |
+| [Spark](preguntas/spark/) | PySpark, particiones, shuffles, optimización | 6 |
+| [Modelado de datos](preguntas/modelado-datos/) | Kimball, star schema, SCD, Data Vault | 5 |
+| [Orquestación](preguntas/orquestacion/) | Airflow, Dagster, Prefect, dbt | 6 |
+| [Cloud](preguntas/cloud/) | AWS, GCP, Azure, data warehouses | 5 |
+| [Streaming](preguntas/streaming/) | Kafka, Flink, Spark Streaming, CDC | 5 |
+| [System Design](preguntas/system-design/) | Diseño de pipelines y arquitecturas de datos | 5 |
+| [Behavioral](preguntas/behavioral/) | Preguntas de comportamiento (método STAR) | 5 |
+
+**Total: 47 preguntas** · Empieza por las de nivel 🟢 Junior si estás preparando tu primera entrevista.
 
 ## 🏷️ Niveles
 
