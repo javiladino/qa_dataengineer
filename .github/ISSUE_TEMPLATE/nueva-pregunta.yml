@@ -1,0 +1,35 @@
+name: Nueva pregunta
+description: Propón una pregunta de entrevista (con o sin respuesta)
+title: "[Pregunta] "
+labels: ["nueva-pregunta"]
+body:
+  - type: textarea
+    id: pregunta
+    attributes:
+      label: Pregunta
+      description: Escribe la pregunta tal como te la hicieron.
+    validations:
+      required: true
+  - type: dropdown
+    id: tema
+    attributes:
+      label: Tema
+      options: [SQL, Python, Spark, Modelado de datos, Orquestación, Cloud, Streaming, System Design, Behavioral, Otro]
+    validations:
+      required: true
+  - type: dropdown
+    id: nivel
+    attributes:
+      label: Nivel
+      options: [Junior, Mid, Senior]
+  - type: input
+    id: contexto
+    attributes:
+      label: Contexto (anonimizado)
+      description: "Sector y año. NO incluyas el nombre de la empresa."
+      placeholder: "Fintech, 2026 — entrevista técnica"
+  - type: textarea
+    id: respuesta
+    attributes:
+      label: Respuesta (opcional)
+      description: Si la conoces, compártela.
