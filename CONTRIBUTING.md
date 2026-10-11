@@ -25,6 +25,11 @@ git add .
 git commit -m "sql: añade pregunta sobre RANK vs DENSE_RANK"
 git push origin pregunta/sql-rank-vs-dense-rank
 ```
+Antes del commit, regenera los índices de cada tema:
+```bash
+python scripts/generar_indices.py
+```
+
 Después abre un Pull Request hacia `main`.
 
 ## Convención de commits
